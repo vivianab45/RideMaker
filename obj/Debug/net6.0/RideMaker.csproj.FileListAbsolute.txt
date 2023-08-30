@@ -1,0 +1,15 @@
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/bin/Debug/net6.0/RideMaker
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/bin/Debug/net6.0/RideMaker.deps.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/bin/Debug/net6.0/RideMaker.runtimeconfig.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/bin/Debug/net6.0/RideMaker.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/bin/Debug/net6.0/RideMaker.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/obj/Debug/net6.0/RideMaker.csproj.AssemblyReference.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/obj/Debug/net6.0/RideMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/obj/Debug/net6.0/RideMaker.AssemblyInfoInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/obj/Debug/net6.0/RideMaker.AssemblyInfo.cs
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/obj/Debug/net6.0/RideMaker.csproj.CoreCompileInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/obj/Debug/net6.0/RideMaker.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/obj/Debug/net6.0/refint/RideMaker.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/obj/Debug/net6.0/RideMaker.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/obj/Debug/net6.0/RideMaker.genruntimeconfig.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/RideMaker/obj/Debug/net6.0/ref/RideMaker.dll
